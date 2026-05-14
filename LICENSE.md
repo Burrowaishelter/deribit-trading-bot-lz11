@@ -1,4 +1,4 @@
-# 
+# updated deribit trading bot Tool | cross-margin + isolated-margin is the best deribit trading bot, featuring cross-margin and isolated-margin. Smart, fast, and optimized for
 
 
 
